@@ -7,9 +7,9 @@ Este repositório contém a implementação de uma aplicação simples chamada M
 <span style="color: #A020F0;">Estrutura do Repositório:</span>
 Dentro deste repositório, você encontrará os seguintes arquivos principais:
 
-meucofrinho.java: Gerencia as operações do cofrinho, como adicionar, remover, listar moedas e calcular o total.
-moeda.java: Classe abstrata representando uma moeda genérica.
-Classes Filhas (real.java, dolar.java, euro.java): Representam diferentes tipos de moedas com suas particularidades.
+Cofrinho.java: Gerencia as operações do cofrinho, como adicionar, remover, listar moedas e calcular o total.
+Moeda.java: Classe abstrata representando uma moeda genérica.
+Classes Filhas (MoedaReal.java, MoedaDolar.java, MoedaEuro.java): Representam diferentes tipos de moedas com suas particularidades.
 Principal.java: Interface principal do usuário, contendo o menu para interação.
 <span style="color: #A020F0;">Como Utilizar:</span>
 Clone este repositório em sua máquina local.
