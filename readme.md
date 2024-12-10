@@ -1,5 +1,5 @@
-<span style="color: #A020F0;">Aplicação Meu Cofrinho</span>
-<span style="color: #A020F0;">Descrição:</span>
+<span style="color: #A020F0;"> Aplicação Meu Cofrinho </span>
+<span style="color: #A020F0;"> Descrição: </span>
 Este repositório contém a implementação de uma aplicação simples chamada Meu Cofrinho, que simula o funcionamento de um cofrinho virtual. Utilizando Java como linguagem de programação, a aplicação permite adicionar, remover, listar moedas e calcular o valor total convertido para uma única moeda. O objetivo é aprimorar habilidades em programação orientada a objetos (POO) e lidar com coleções e herança.
 
 <span style="color: #A020F0;">Tecnologias Utilizadas:</span>
